@@ -1,4 +1,4 @@
-package dex.alpha.dormdynamo.student.fragments
+package dex.alpha.hostelyangu.student.fragments
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -6,8 +6,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.*
-import dex.alpha.dormdynamo.R
-import dex.alpha.dormdynamo.student.StudentDashboard
+import dex.alpha.hostelyangu.R
+import dex.alpha.hostelyangu.student.StudentDashboard
 
 
 class BasicDetails : Fragment() {

@@ -1,4 +1,4 @@
-package dex.alpha.dormdynamo.warden
+package dex.alpha.hostelyangu.warden
 
 import android.content.Context
 import android.content.Intent
@@ -7,8 +7,8 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.ImageView
-import dex.alpha.dormdynamo.R
-import dex.alpha.dormdynamo.student.StudentSelectedDetails
+import dex.alpha.hostelyangu.R
+import dex.alpha.hostelyangu.student.StudentSelectedDetails
 
 class WardenDashboard : AppCompatActivity() {
 

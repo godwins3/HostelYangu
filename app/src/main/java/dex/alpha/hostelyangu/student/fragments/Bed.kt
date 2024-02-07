@@ -1,4 +1,4 @@
-package dex.alpha.dormdynamo.student.fragments
+package dex.alpha.hostelyangu.student.fragments
 
 import android.content.Intent
 import android.os.Bundle
@@ -7,9 +7,9 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.*
-import dex.alpha.dormdynamo.R
-import dex.alpha.dormdynamo.student.StudentDashboard
-import dex.alpha.dormdynamo.student.StudentSelectedDetails
+import dex.alpha.hostelyangu.R
+import dex.alpha.hostelyangu.student.StudentDashboard
+import dex.alpha.hostelyangu.student.StudentSelectedDetails
 
 
 class Bed : Fragment() {

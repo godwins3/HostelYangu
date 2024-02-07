@@ -1,4 +1,4 @@
-package dex.alpha.dormdynamo.student
+package dex.alpha.hostelyangu.student
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -9,7 +9,7 @@ import android.widget.*
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.FirebaseAuthException
 import com.google.firebase.auth.UserProfileChangeRequest
-import dex.alpha.dormdynamo.R
+import dex.alpha.hostelyangu.R
 
 class StudentRegister : AppCompatActivity() , View.OnClickListener{
 

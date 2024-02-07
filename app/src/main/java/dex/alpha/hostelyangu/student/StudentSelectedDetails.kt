@@ -1,4 +1,4 @@
-package dex.alpha.dormdynamo.student
+package dex.alpha.hostelyangu.student
 
 
 import androidx.appcompat.app.AppCompatActivity
@@ -8,10 +8,10 @@ import android.widget.TextView
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
-import dex.alpha.dormdynamo.R
-import dex.alpha.dormdynamo.db.BookingDetails
-import dex.alpha.dormdynamo.db.BookingDetailsDao
-import dex.alpha.dormdynamo.student.StudentDashboard.Companion.emailOfStudent
+import dex.alpha.hostelyangu.R
+import dex.alpha.hostelyangu.db.BookingDetails
+import dex.alpha.hostelyangu.db.BookingDetailsDao
+import dex.alpha.hostelyangu.student.StudentDashboard.Companion.emailOfStudent
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.launch

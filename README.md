@@ -2,24 +2,24 @@
   <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" align="center" width="128" height="128" />
 <p>
 
-<h1 align="center">Dorm Dynamo</h1>
+<h1 align="center">Hostel Yangu</h1>
 
 <p align="center">
-Dorm Dynamo is an android application designed to manage hostels in educational institutions. The application features two logins, one for students and another for wardens. The students can select hostels, rooms, and other amenities, whereas the wardens can access student details. 
+Hostel Yangu is an android application designed to manage hostels in educational institutions. The application features two logins, one for students and another for wardens. The students can select hostels, rooms, and other amenities, whereas the wardens can access student details. 
 </p>
 
 <div align="center">
-    <a href="https://github.com/deveshp007/DormDynamo/releases">
+    <a href="https://github.com/deveshp007/hostelyangu/releases">
 
-  <img alt="Download count" src="https://img.shields.io/github/downloads/deveshp007/DormDynamo/total?style=social">
+  <img alt="Download count" src="https://img.shields.io/github/downloads/deveshp007/hostelyangu/total?style=social">
   </a>
-      <a href="https://github.com/deveshp007/DormDynamo/releases/latest">
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/deveshp007/DormDynamo?style=social">
+      <a href="https://github.com/deveshp007/hostelyangu/releases/latest">
+    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/deveshp007/hostelyangu?style=social">
   </a>
-  <a href="https://github.com/deveshp007/DormDynamo/blob/main/LICENSE.md">
-    <img alt="GitHub" src="https://img.shields.io/github/license/deveshp007/DormDynamo?style=social">
+  <a href="https://github.com/deveshp007/hostelyangu/blob/main/LICENSE.md">
+    <img alt="GitHub" src="https://img.shields.io/github/license/deveshp007/hostelyangu?style=social">
   </a>
-  <img alt="release date" src="https://img.shields.io/github/release-date/deveshp007/DormDynamo?style=social">
+  <img alt="release date" src="https://img.shields.io/github/release-date/deveshp007/hostelyangu?style=social">
 </div>
 
 ## Tech Stacks

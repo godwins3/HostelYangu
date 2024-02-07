@@ -1,4 +1,4 @@
-package dex.alpha.dormdynamo
+package dex.alpha.hostelyangu
 
 import org.junit.Test
 

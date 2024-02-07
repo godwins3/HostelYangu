@@ -1,12 +1,12 @@
-package dex.alpha.dormdynamo.student
+package dex.alpha.hostelyangu.student
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.ImageView
 import com.google.firebase.auth.FirebaseAuth
-import dex.alpha.dormdynamo.R
-import dex.alpha.dormdynamo.student.fragments.RoomType
+import dex.alpha.hostelyangu.R
+import dex.alpha.hostelyangu.student.fragments.RoomType
 
 class StudentDashboard : AppCompatActivity() {
 

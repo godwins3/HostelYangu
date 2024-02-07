@@ -1,4 +1,4 @@
-package dex.alpha.dormdynamo.warden
+package dex.alpha.hostelyangu.warden
 
 import android.content.Context
 import android.content.Intent
@@ -9,7 +9,7 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.ImageView
 import android.widget.Toast
-import dex.alpha.dormdynamo.R
+import dex.alpha.hostelyangu.R
 
 class WardenLogin : AppCompatActivity() {
 

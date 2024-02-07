@@ -1,4 +1,4 @@
-package dex.alpha.dormdynamo.db
+package dex.alpha.hostelyangu.db
 
 
 import androidx.room.Entity

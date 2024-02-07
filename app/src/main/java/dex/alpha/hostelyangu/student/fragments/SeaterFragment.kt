@@ -1,4 +1,4 @@
-package dex.alpha.dormdynamo.student.fragments
+package dex.alpha.hostelyangu.student.fragments
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -9,8 +9,8 @@ import android.widget.Button
 import android.widget.RadioButton
 import android.widget.RadioGroup
 import android.widget.Toast
-import dex.alpha.dormdynamo.R
-import dex.alpha.dormdynamo.student.StudentDashboard
+import dex.alpha.hostelyangu.R
+import dex.alpha.hostelyangu.student.StudentDashboard
 
 class SeaterFragment : Fragment() {
 
