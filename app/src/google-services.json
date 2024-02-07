@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900751922217",
+    "project_id": "hostel-yangu",
+    "storage_bucket": "hostel-yangu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900751922217:android:a163270056eb978f7ab838",
+        "android_client_info": {
+          "package_name": "dex.alpha.hostelyangu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBwGN9neLvjesebW7jpyAghS_fz1LWO-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
