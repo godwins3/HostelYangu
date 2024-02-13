@@ -57,7 +57,7 @@ class GlobalLogin : AppCompatActivity() {
 //        shareAppTxt = findViewById(R.id.shareAppTxt)
 //        shareAppTxt.setOnClickListener(){
 //            val intent = Intent(Intent.ACTION_SEND)
-//            val url = "https://github.com/deveshp007/hostelyangu/releases/download/v1.0.1/hostelyangu.apk"
+//            val url = "https://github.com/godwins3/hostelyangu/releases/download/v1.0.1/hostelyangu.apk"
 //            intent.type = "text/plain"
 //            intent.putExtra(
 //                Intent.EXTRA_TEXT,

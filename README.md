@@ -9,17 +9,17 @@ Hostel Yangu is an android application designed to manage hostels in educational
 </p>
 
 <div align="center">
-    <a href="https://github.com/deveshp007/hostelyangu/releases">
+    <a href="https://github.com/godwins3/hostelyangu/releases">
 
-  <img alt="Download count" src="https://img.shields.io/github/downloads/deveshp007/hostelyangu/total?style=social">
+  <img alt="Download count" src="https://img.shields.io/github/downloads/godwins3/hostelyangu/total?style=social">
   </a>
-      <a href="https://github.com/deveshp007/hostelyangu/releases/latest">
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/deveshp007/hostelyangu?style=social">
+      <a href="https://github.com/godwins3/hostelyangu/releases/latest">
+    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/godwins3/hostelyangu?style=social">
   </a>
-  <a href="https://github.com/deveshp007/hostelyangu/blob/main/LICENSE.md">
-    <img alt="GitHub" src="https://img.shields.io/github/license/deveshp007/hostelyangu?style=social">
+  <a href="https://github.com/godwins3/hostelyangu/blob/main/LICENSE.md">
+    <img alt="GitHub" src="https://img.shields.io/github/license/godwins3/hostelyangu?style=social">
   </a>
-  <img alt="release date" src="https://img.shields.io/github/release-date/deveshp007/hostelyangu?style=social">
+  <img alt="release date" src="https://img.shields.io/github/release-date/godwins3/hostelyangu?style=social">
 </div>
 
 ## Tech Stacks
