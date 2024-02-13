@@ -63,7 +63,6 @@
         android:layout_marginEnd="4dp"
         app:cardCornerRadius="12dp"
         app:cardElevation="8dp"
-        app:layout_constraintBottom_toTopOf="@id/exitButton"
         app:layout_constraintEnd_toStartOf="@id/warden_login_button"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/description">
@@ -107,7 +106,6 @@
         android:background="@drawable/warden"
         app:cardCornerRadius="12dp"
         app:cardElevation="8dp"
-        app:layout_constraintBottom_toTopOf="@id/shareAppTxt"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@id/student_login_button"
         app:layout_constraintTop_toBottomOf="@id/description">
@@ -138,71 +136,6 @@
             android:textStyle="bold" />
 
     </androidx.cardview.widget.CardView>
-
-    <Button
-        android:id="@+id/exitButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="4dp"
-        android:layout_marginTop="8dp"
-        android:background="#00ffffff"
-        android:elevation="0dp"
-        android:padding="2dp"
-        android:stateListAnimator="@null"
-        android:text="Exit App"
-        android:textAlignment="center"
-        android:textAllCaps="false"
-        android:textColor="?attr/colorOnSurface"
-        app:icon="@drawable/round_logout_24"
-        app:iconGravity="top"
-        app:iconTint="?attr/colorPrimary"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toStartOf="@id/shareRepo"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/student_login_button" />
-
-    <Button
-        android:id="@+id/shareRepo"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="8dp"
-        android:background="#00ffffff"
-        android:elevation="0dp"
-        android:padding="2dp"
-        android:stateListAnimator="@null"
-        android:text="App Repo"
-        android:textAlignment="center"
-        android:textAllCaps="false"
-        android:textColor="?attr/colorOnSurface"
-        app:icon="@drawable/ic_round_code_24"
-        app:iconGravity="top"
-        app:iconTint="?attr/colorPrimary"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toStartOf="@id/shareAppTxt"
-        app:layout_constraintStart_toEndOf="@id/exitButton"
-        app:layout_constraintTop_toBottomOf="@id/warden_login_button" />
-
-    <Button
-        android:id="@+id/shareAppTxt"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="8dp"
-        android:layout_marginEnd="4dp"
-        android:background="#00ffffff"
-        android:elevation="0dp"
-        android:padding="2dp"
-        android:stateListAnimator="@null"
-        android:text="Share App"
-        android:textAlignment="center"
-        android:textAllCaps="false"
-        android:textColor="?attr/colorOnSurface"
-        app:icon="@drawable/ic_round_ios_share_24"
-        app:iconGravity="top"
-        app:iconTint="?attr/colorPrimary"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toEndOf="@id/shareRepo"
-        app:layout_constraintTop_toBottomOf="@id/warden_login_button" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

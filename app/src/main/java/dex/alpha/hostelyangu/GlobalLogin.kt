@@ -36,36 +36,36 @@ class GlobalLogin : AppCompatActivity() {
         setContentView(R.layout.activity_global_login)
 
 
-        // Exit Button Code
-        btnExit = findViewById(R.id.exitButton)
-        btnExit.setOnClickListener(){
-            finish()
-        }
-
-
-        // App repo button code
-        shareRepo = findViewById(R.id.shareRepo)
-        shareRepo.setOnClickListener(){
-            val url = "https://github.com/godwins3/HostelYangu"
-            val intent = Intent(Intent.ACTION_VIEW)
-            intent.setDataAndType(Uri.parse(url), "text/plain")
-            val choose = Intent.createChooser(intent, "Share URL")
-            startActivity(choose)
-        }
-
-        // share app button code
-        shareAppTxt = findViewById(R.id.shareAppTxt)
-        shareAppTxt.setOnClickListener(){
-            val intent = Intent(Intent.ACTION_SEND)
-            val url = "https://github.com/deveshp007/hostelyangu/releases/download/v1.0.1/hostelyangu.apk"
-            intent.type = "text/plain"
-            intent.putExtra(
-                Intent.EXTRA_TEXT,
-                "Hey, Checkout this Hostel Yangu App. $url"
-            )
-            val chooser = Intent.createChooser(intent, "Share this app using...")
-            startActivity(chooser)
-        }
+//        // Exit Button Code
+//        btnExit = findViewById(R.id.exitButton)
+//        btnExit.setOnClickListener(){
+//            finish()
+//        }
+//
+//
+//        // App repo button code
+//        shareRepo = findViewById(R.id.shareRepo)
+//        shareRepo.setOnClickListener(){
+//            val url = "https://github.com/godwins3/HostelYangu"
+//            val intent = Intent(Intent.ACTION_VIEW)
+//            intent.setDataAndType(Uri.parse(url), "text/plain")
+//            val choose = Intent.createChooser(intent, "Share URL")
+//            startActivity(choose)
+//        }
+//
+//        // share app button code
+//        shareAppTxt = findViewById(R.id.shareAppTxt)
+//        shareAppTxt.setOnClickListener(){
+//            val intent = Intent(Intent.ACTION_SEND)
+//            val url = "https://github.com/deveshp007/hostelyangu/releases/download/v1.0.1/hostelyangu.apk"
+//            intent.type = "text/plain"
+//            intent.putExtra(
+//                Intent.EXTRA_TEXT,
+//                "Hey, Checkout this Hostel Yangu App. $url"
+//            )
+//            val chooser = Intent.createChooser(intent, "Share this app using...")
+//            startActivity(chooser)
+//        }
 
         // student login
         studentLoginBtn = findViewById(R.id.student_login_button)
