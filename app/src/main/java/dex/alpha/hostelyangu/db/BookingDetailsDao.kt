@@ -18,4 +18,7 @@ interface BookingDetailsDao {
 
     @Query("DELETE FROM bookingDetails")
     suspend fun deleteAllBookingDetails()
+
+    @Query("SELECT nameOfStudent FROM bookingDetails LIMIT 1")
+    suspend fun getStudentName(): String?
 }
